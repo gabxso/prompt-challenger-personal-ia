@@ -121,3 +121,125 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Ótimo, aqui está um roteiro para coletar informações e elaborar um plano de treino personalizado com base nas variáveis fornecidas:
+
+---
+
+**Passo 1: Cumprimento e Apresentação**
+
+"Olá! Bem-vindo(a) ao seu programa de treinamento personalizado. Para que eu possa criar o melhor plano para você, vou precisar entender um pouco mais sobre seu corpo, objetivos e disponibilidade. Vamos começar?"
+
+---
+
+**Passo 2: Coleta de Informações**
+
+Para cada uma das variáveis, vou te explicar o motivo de pedirmos essa informação e apresentar as opções.
+
+1. **Nome do Cliente**
+   - *"Qual é o seu nome?"*
+
+2. **Biotipo**
+   - *Importância*: Conhecer o biotipo ajuda a entender como o corpo reage ao treinamento e ao ganho/perda de peso.
+   - *Opções*:  
+     - A) Ectomorfo: Corpo naturalmente magro, metabolismo rápido.  
+     - B) Mesomorfo: Corpo atlético, facilidade de ganho muscular.  
+     - C) Endomorfo: Corpo com tendência a acumular gordura.  
+   - *"Qual dessas opções melhor descreve seu corpo?"*
+
+3. **Disponibilidade de Treino**
+   - *Importância*: Saber quantos dias você pode se dedicar ao treino nos ajuda a planejar a divisão dos exercícios.
+   - *Opções*:  
+     - A) 1-2 dias por semana: Treino Full Body.  
+     - B) 3-4 dias por semana: Treino ABC ou Upper/Lower Split.  
+     - C) 5-6 dias por semana: Treino ABCDE ou Push/Pull/Legs.  
+   - *"Quantos dias por semana você consegue treinar?"*
+
+4. **Tipo de Treino Preferido**
+   - *Importância*: Escolher o tipo de treino ajuda a garantir que o programa seja prazeroso e eficiente.
+   - *Opções*:  
+     - A) Funcional.  
+     - B) Maquinário.  
+     - C) Peso Livre.  
+     - D) Cardio.  
+     - E) HIIT.  
+   - *"Qual tipo de treino você prefere?"*
+
+5. **Faixa Etária**
+   - *Importância*: A idade pode influenciar na intensidade do treino e no foco do programa.
+   - *Opções*:  
+     - A) 12 a 19 anos.  
+     - B) 20 a 29 anos.  
+     - C) 30 a 39 anos.  
+     - D) 40 a 49 anos.  
+     - E) 50 anos ou mais.  
+   - *"Qual a sua faixa etária?"*
+
+6. **Objetivo Principal**
+   - *Importância*: Saber seu objetivo principal ajuda a definir o foco do treino.
+   - *Opções*:  
+     - A) Perda de gordura.  
+     - B) Ganho de massa muscular.  
+     - C) Melhora do condicionamento físico.  
+     - D) Aumento da força.  
+     - E) Melhora da flexibilidade e mobilidade.  
+   - *"Qual é seu principal objetivo de treino?"*
+
+7. **Nível de Condicionamento**
+   - *Importância*: Avaliar o nível de experiência permite ajustar a intensidade e progressão do treino.
+   - *Opções*:  
+     - A) Iniciante.  
+     - B) Intermediário.  
+     - C) Avançado.  
+   - *"Qual é o seu nível de experiência com exercícios?"*
+
+8. **Restrições Médicas**
+   - *Importância*: Restrições médicas são essenciais para a segurança durante os exercícios.
+   - *Opções*:  
+     - A) Nenhuma restrição conhecida.  
+     - B) Problemas articulares (especifique: joelho, ombro, etc.).  
+     - C) Condições cardiovasculares.  
+     - D) Outras (especifique).  
+   - *"Há alguma condição médica que eu deveria conhecer?"*
+
+---
+
+**Passo 3: Confirmação dos Dados**
+
+"Ótimo! Vou só confirmar os dados para garantir que tudo esteja correto antes de preparar seu plano."
+
+---
+
+**Passo 4: Criação do Plano de Treino Personalizado**
+
+Com base nos dados coletados:
+
+1. **Frequência e Divisão do Treino**: Ajuste conforme a disponibilidade de dias e objetivo.
+2. **Tipos de Exercícios**: Inclua exercícios funcionais, de maquinário, peso livre, etc., conforme o tipo preferido.
+3. **Intensidade e Volume**: Adeque a intensidade ao nível de condicionamento.
+4. **Progressão**: Explique a progressão prevista, como aumentar pesos, séries ou frequência ao longo das semanas.
+
+---
+
+**Passo 5: Explicação do Plano e Dicas de Nutrição e Recuperação**
+
+"Esse plano é ideal para você porque [explicação específica do ajuste ao biotipo, objetivos e limitações]."
+
+**Dicas de Nutrição e Recuperação**: Forneça recomendações básicas como ingestão de proteínas, hidratação, descanso, e dicas de recuperação para prevenir lesões.
+
+---
+
+**Passo 6: Monitoramento e Dúvidas**
+
+"Para acompanhar o progresso, recomendo [formas de monitoramento, como fotos, medidas, ou aumento de carga]. Tem alguma dúvida ou precisa de algum esclarecimento adicional?"
+
+---
+
+Dessa forma, você garante um atendimento completo e personalizado!
+
+
+
+## Resultado aplicado via ChatGPT 
+
+
+https://chatgpt.com/c/67211134-e170-8012-9949-c618a8d43cbc
